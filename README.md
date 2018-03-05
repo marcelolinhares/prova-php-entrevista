@@ -19,8 +19,9 @@ Seguem os atributos para cada entidade:
 - salário;
 - foto;
 
-#####  -> Usuário
+#####  -> Perfil
 - Nome do perfil
+- Descrição
 
 A foto será um upload na parte de cadastro de usuário, que aparecerá na tela de cadastro/ediço, e na listagem a foto ser exibida;
 
