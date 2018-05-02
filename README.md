@@ -38,7 +38,7 @@ A foto será um upload na parte de cadastro de usuário, que aparecerá na tela 
 
 
 ##### Flexibilidade
-Você poderá utilizar qualquer framework para desenvolver o projeto, lembrando que a arquitetura utilizada, você deverá defendê-la pessoalmente na nossa entrevista (caso passe no teste)
+Você poderá utilizar qualquer framework para desenvolver o projeto, lembrando que a arquitetura utilizada, você deverá defendê-la pessoalmente na nossa entrevista (caso passe no teste).
 
 ##### Prazo
 O deadline será até  07/05 (segunda-feira),e qualquer dúvida pode enviar diretamente para o e-mail marcelo(a)constance.com.br
